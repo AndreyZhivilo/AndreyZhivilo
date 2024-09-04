@@ -48,7 +48,7 @@
 
 ###
 
-[![Codewars Badge](https://www.codewars.com/users/stargazer87/badges/large)](https://www.codewars.com/users/Stargazer87)
+<img src="https://www.codewars.com/users/Stargazer87/badges/large" />
 
 
 
