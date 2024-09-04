@@ -48,9 +48,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=Stargazer87"/>
-</div>
+
+  [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka)
+
 
 
 
