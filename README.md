@@ -48,6 +48,6 @@
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=stargazer87&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=Stargazer87&stroke=%23BB432C)
 
 
