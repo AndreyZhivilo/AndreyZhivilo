@@ -48,8 +48,7 @@
 
 ###
 
-
-  [![Codewars Badge](https://www.codewars.com/users/stargazer87/badges/large)](https://www.codewars.com/users/stargazer87)
+[![Codewars Badge](https://www.codewars.com/users/stargazer87/badges/large)](https://www.codewars.com/users/Stargazer87)
 
 
 
