@@ -48,6 +48,9 @@
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=Stargazer87)
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=Stargazer87"/>
+</div>
+
 
 
