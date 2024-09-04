@@ -11,5 +11,26 @@
 ###
 
 <div align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AndreyZhivilo)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndreyZhivilo.AndreyZhivilo&"  />
 </div>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Привет. Я начинающий Frontend-разработчик. Начинал с верстки тем и создания плагинов для Wordpress на фрилансе. В 2020 я понял что хочу заняться чем-нибудь другим. Пробовал изучать Python, углубленно изучал JS. Впервые попробовал Vue и React. Мне очень понравились эти фреймворки. И я решил продолжить карьеру как React-разработчик.</p>
+<p align="left">С тех пор я активно изучаю React и его экосистему. Сделал несколько несложных приложений. В 2023 параллельно с работой прошел курс от Skillbox Frontend разработчик. Сейчас активно ищу возможность поработать в команде над более сложными и амбициозными проектами.</p>
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<p align="left">
+  <a href="https://skillicons.dev">    
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,css,git,vite,docker,figma,mongodb,nodejs,postgres,prisma" />
+  </a>
+</p>
