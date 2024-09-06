@@ -56,6 +56,19 @@
 
 ###
 
+<h3 align="left">🗂 Портфолио:</h3>
+
+#1. **Кастомный Select + Combobox для React**
+
+Компонент Select, который может принимать принимать и отдавать любые значения с сохранением типизации. Можно выбрать несколько значений. Есть функция текстового поиска по опциям. Можно передать в него свои компоненты для отрисовки дропдауна, опций и тегов. 
+
+**Демо**: [https://andreyzhivilo.github.io/custom-select/](https://andreyzhivilo.github.io/custom-select/)  
+
+**Репозиторий**: [https://github.com/AndreyZhivilo/custom-select](https://github.com/AndreyZhivilo/custom-select)
+
+
+###
+
 <h3 align="left">🚀 Моя статистика:</h3>
 
 ###
